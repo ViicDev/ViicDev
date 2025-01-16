@@ -3,9 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&font-weight=bold&text-align=center&margin=auto%&color=9D00FF&center=true&vCenter=true&width=435&lines=Dev+Front-End++In+Process;¡Develop+To+Create+Solutions!+ᝰ.ᐟ;)
 
-<!--# <h1 style="font-size: 100px; font-weight: bold;"> ☽ Vic𖦹Ryddle ☾ </h1> -->
-
-<!--
 ```python
 class SobreMi:
     def __init__(self):
@@ -19,7 +16,6 @@ class SobreMi:
             "herramientas": ["Git", "VS Code"]
         }
 ```
--->
 
 | | |
 |---|---|
