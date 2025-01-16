@@ -1,7 +1,8 @@
-<!-- <img src="./assets/jpg/vicriddle3.jpeg" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 10px;"/> -->
 <img src="https://komarev.com/ghpvc/?username=ViicDev&color=39FF14&style=flat-square&label=Visitantes" alt="Visitors"/> 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&font-weight=bold&text-align=center&margin=auto%&color=9D00FF&center=true&vCenter=true&width=435&lines=Dev+Front-End++In+Process;¡Develop+To+Create+Solutions!+ᝰ.ᐟ;)
+
+<!--
 
 ```python
 class AboutMe:
@@ -16,6 +17,8 @@ class AboutMe:
             "devops": ["Docker", "Kubernetes", "AWS"]
         }
 ```
+
+-->
 
 | | |
 |---|---|
