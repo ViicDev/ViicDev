@@ -4,16 +4,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&font-weight=bold&text-align=center&margin=auto%&color=9D00FF&center=true&vCenter=true&width=435&lines=Dev+Front-End++In+Process;¡Develop+To+Create+Solutions!+ᝰ.ᐟ;)
 
 ```python
-class SobreMi:
+class AboutMe:
     def __init__(self):
-        self.nombre = "ViicDev"
-        self.rol = "Desarrollador Front End"
+        self.nombre = "[ViicDev]"
+        self.rol = "Desarrollador Full Stack"
         self.ubicacion = "🌍 [TU CIUDAD, PAÍS]"
         self.conocimientos = {
-            "frontend": ["HTML5", "CSS3", "SASS", "JavaScript"],
-            "backend": ["PHP"],
-            "database": ["MySQL"],
-            "herramientas": ["Git", "VS Code"]
+            "frontend": ["React", "Vue", "TypeScript", "Tailwind"],
+            "backend": ["Python", "Node.js", "Go", "Java"],
+            "database": ["PostgreSQL", "MongoDB", "Redis"],
+            "devops": ["Docker", "Kubernetes", "AWS"]
         }
 ```
 
