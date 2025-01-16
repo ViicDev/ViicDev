@@ -62,7 +62,3 @@ class SobreMi:
 
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-0D1117?style=for-the-badge&logo=frontendmentor&logoColor=39FF14)](https://www.frontendmentor.io/profile/ViicDev) [![Exercism](https://img.shields.io/badge/Exercism-0D1117?style=for-the-badge&logo=exercism&logoColor=39FF14)](https://exercism.org/@ViicDev/) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0D1117?style=for-the-badge&logo=freecodecamp&logoColor=39FF14)](https://www.freecodecamp.org/ViicDev) [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=react&logoColor=39FF14)](https://tu-sitio.com)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:tu@email.com)
-
-<!-- markdownlint-disable MD033 MD041 -->
-<!--<img src="./assets/jpg//vic1.jpg" alt="Profile Picture" width="150" height="150"/>-->
-<!-- markdownlint-disable MD033 MD041 -->
