@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&font-weight=bold&text-align=center&margin=auto%&color=9D00FF&center=true&vCenter=true&width=435&lines=Dev+Front-End++In+Process;¡Develop+To+Create+Solutions!+ᝰ.ᐟ;)
 
 <!--
-
 ```python
 class AboutMe:
     def __init__(self):
@@ -17,8 +16,9 @@ class AboutMe:
             "devops": ["Docker", "Kubernetes", "AWS"]
         }
 ```
-
 -->
+
+<p>I'm a mysterious individual who has yet to fill out his bio. One thing is for sure: I love writing front-end code!</p>
 
 | | |
 |---|---|
